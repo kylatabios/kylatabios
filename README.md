@@ -1,48 +1,107 @@
-# Hi, I'm Kyla Mae Tabios
+# Hi, I'm Kyla Mae Tabios 👋
 
-BSIT Graduate from the Philippines with experience in Web Development, Technical Support, Network Troubleshooting, and AI-assisted tools.
-I enjoy creating web applications, developing practical solutions, and improving my technical skills through real-world projects.
+BSIT Graduate from the Philippines with experience in **Web Development, Technical Support, Network Troubleshooting, and AI-assisted tools**.
 
-## About Me
+I enjoy building web applications, creating practical solutions, and continuously improving my technical skills through real-world projects. I am passionate about learning new technologies and turning ideas into functional systems.
 
-- Location: Hagonoy, Bulacan, Philippines
-- Portfolio: https://kyla-portfolio-nine.vercel.app/
-- Email: tabioskyla21@gmail.com
-- Open to Web Development and IT opportunities
+---
 
-## Skills
+## 👩‍💻 About Me
 
-C# • Java • Python • HTML • CSS • JavaScript  
-MySQL • Microsoft Access  
-Web Development • Network Troubleshooting  
-Technical Support • Hardware & Software Support  
-AI Tools • Documentation • Problem Solving • Teamwork
+📍 Location: Hagonoy, Bulacan, Philippines  
+🌐 Portfolio: https://kyla-portfolio-nine.vercel.app/  
+📧 Email: tabioskyla21@gmail.com  
+🎵 Fun Fact: When my brain feels completely exhausted, sleeping and playing musical instruments help me recharge and bring my focus back. I usually get new ideas and motivation after taking a short break.
 
-## Projects
+💼 Open to opportunities in:
+- Web Development
+- IT Support
+- Software Development
+- Technical Roles
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,vscode" />
+</p>
+
+### Other Skills
+
+💻 Technical Support  
+🌐 Network Troubleshooting  
+📝 Technical Documentation  
+🤖 AI-assisted Tools  
+🔧 Hardware & Software Support  
+🧩 Problem Solving  
+🤝 Team Collaboration  
+
+---
+
+## 🚀 Projects
 
 ### OrderQ - QR Code-Based Ordering System
+
 **Researcher & Documentation Lead | Capstone Project**
 
+**Technologies:**
 React • Node.js • Express.js • MySQL • Tailwind CSS • PayPal • Git • Figma
 
+A QR-based ordering platform designed to improve restaurant ordering efficiency through digital solutions.
+
+---
+
 ### MenuMatic - QR-Based Food Ordering Platform
+
 **WordPress Developer & Documentation Lead**
 
+**Technologies:**
 WordPress • Elementor • HTML • CSS
 
-## Certifications & Awards
+A digital menu and ordering platform created to enhance customer experience and streamline restaurant operations.
 
-Certifications:
+---
+
+## 📜 Certifications & Awards
+
+### Certifications
+
 - Microsoft Excel (Office 2019)
 - Microsoft Access Expert (Office 2019)
 - Introduction to Cybersecurity
 - Device Configuration and Management
 
-Awards:
+### Awards
+
 - Dean's Lister (2023-2026)
 - Academic Distinction
 - Best in Practicum
 - Practicum Commendation
 - Best in System Design
-- 2nd Runner Up Type Racing
+- 2nd Runner Up - Type Racing
 - Loyalty Award
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
