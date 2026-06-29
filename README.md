@@ -1,7 +1,6 @@
 # Hi, I'm Kyla Mae Tabios
 
 BSIT Graduate from the Philippines with experience in Web Development, Technical Support, Network Troubleshooting, and AI-assisted tools.
-
 I enjoy creating web applications, developing practical solutions, and improving my technical skills through real-world projects.
 
 ## About Me
