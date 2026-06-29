@@ -1,7 +1,6 @@
 # Hi, I'm Kyla Mae Tabios 👋
 
 BSIT Graduate from the Philippines with experience in **Web Development, Technical Support, Network Troubleshooting, and AI-assisted tools**.
-
 I enjoy building web applications, creating practical solutions, and continuously improving my technical skills through real-world projects. I am passionate about learning new technologies and turning ideas into functional systems.
 
 ---
@@ -11,7 +10,7 @@ I enjoy building web applications, creating practical solutions, and continuousl
 📍 Location: Hagonoy, Bulacan, Philippines  
 🌐 Portfolio: https://kyla-portfolio-nine.vercel.app/  
 📧 Email: tabioskyla21@gmail.com  
-🎵 Fun Fact: When my brain feels completely exhausted, sleeping and playing musical instruments help me recharge and bring my focus back. I usually get new ideas and motivation after taking a short break.
+🎵 Fun Fact: When my brain feels completely exhausted, sleeping, taking a shower, and playing musical instruments help me recharge and bring my focus back. I usually get new ideas and motivation after taking a short break.
 
 💼 Open to opportunities in:
 - Web Development
@@ -55,30 +54,6 @@ I enjoy building web applications, creating practical solutions, and continuousl
 
 ---
 
-## 🚀 Projects
-
-### OrderQ - QR Code-Based Ordering System
-
-**Researcher & Documentation Lead | Capstone Project**
-
-**Technologies:**
-React • Node.js • Express.js • MySQL • Tailwind CSS • PayPal • Git • Figma
-
-A QR-based ordering platform designed to improve restaurant ordering efficiency through digital solutions.
-
----
-
-### MenuMatic - QR-Based Food Ordering Platform
-
-**WordPress Developer & Documentation Lead**
-
-**Technologies:**
-WordPress • Elementor • HTML • CSS
-
-A digital menu and ordering platform created to enhance customer experience and streamline restaurant operations.
-
----
-
 ## 📜 Certifications & Awards
 
 ### Certifications
@@ -98,10 +73,5 @@ A digital menu and ordering platform created to enhance customer experience and 
 - 2nd Runner Up - Type Racing
 - Loyalty Award
 
----
 
-## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
